@@ -1,3 +1,112 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-image-main",
+      "description": "A person in a hoodie looking over a city at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1511742667815-af572199b23a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdHJlZXR3ZWFyJTIwZmFzaGlvbnxlbnwwfHx8fDE3NjgxMDk5MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "streetwear fashion"
+    },
+    {
+      "id": "product-1-front",
+      "description": "Front view of a black t-shirt with a futuristic graphic.",
+      "imageUrl": "https://images.unsplash.com/photo-1759576981170-66ebaa40f04d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxncmFwaGljJTIwdHNoaXJ0fGVufDB8fHx8MTc2ODA2MTMwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graphic tshirt"
+    },
+    {
+      "id": "product-1-back",
+      "description": "Back view of a black t-shirt with a futuristic graphic.",
+      "imageUrl": "https://images.unsplash.com/photo-1543529140-86d36880cafd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0c2hpcnQlMjBiYWNrfGVufDB8fHx8MTc2ODEwOTkwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tshirt back"
+    },
+    {
+      "id": "product-1-detail",
+      "description": "Close-up detail of the graphic on a black t-shirt.",
+      "imageUrl": "https://images.unsplash.com/photo-1766430342814-10cf752ac4f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmFwaGljJTIwZGV0YWlsfGVufDB8fHx8MTc2ODEwOTkwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graphic detail"
+    },
+    {
+      "id": "product-2-front",
+      "description": "Front view of a white t-shirt with a minimalist logo.",
+      "imageUrl": "https://images.unsplash.com/photo-1661181475147-bbd20ef65781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3aGl0ZSUyMHRzaGlydHxlbnwwfHx8fDE3NjgxMDk5MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white tshirt"
+    },
+    {
+      "id": "product-2-back",
+      "description": "Back view of a white t-shirt with a minimalist logo.",
+      "imageUrl": "https://images.unsplash.com/photo-1622023828943-b4e6afb60516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0c2hpcnQlMjBiYWNrfGVufDB8fHx8MTc2ODEwOTkwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tshirt back"
+    },
+    {
+      "id": "product-2-detail",
+      "description": "Close-up detail of the logo on a white t-shirt.",
+      "imageUrl": "https://images.unsplash.com/photo-1743947197227-26b2fd9811b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsb2dvJTIwZGV0YWlsfGVufDB8fHx8MTc2ODA1MjY5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo detail"
+    },
+    {
+      "id": "product-3-front",
+      "description": "Front view of a dark grey t-shirt with an abstract design.",
+      "imageUrl": "https://images.unsplash.com/photo-1636811714614-b2738deac0eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhYnN0cmFjdCUyMGRlc2lnbnxlbnwwfHx8fDE3NjgwODczNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract design"
+    },
+    {
+      "id": "product-4-front",
+      "description": "Front view of a blue t-shirt with a city skyline graphic.",
+      "imageUrl": "https://images.unsplash.com/photo-1670955107412-577b4da66a49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2t5bGluZSUyMHRzaGlydHxlbnwwfHx8fDE3NjgxMDk5MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "skyline tshirt"
+    },
+    {
+      "id": "product-5-front",
+      "description": "Front view of an oversized black t-shirt with Japanese characters.",
+      "imageUrl": "https://images.unsplash.com/photo-1521498542256-5aeb47ba2b36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvdmVyc2l6ZWQlMjB0c2hpcnR8ZW58MHx8fHwxNzY4MTA5OTA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "oversized tshirt"
+    },
+    {
+      "id": "product-6-front",
+      "description": "Front view of a tie-dye t-shirt.",
+      "imageUrl": "https://images.unsplash.com/photo-1730952875153-c5c052698508?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0aWVkeWUlMjB0c2hpcnR8ZW58MHx8fHwxNzY4MTA5OTA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tiedye tshirt"
+    },
+    {
+      "id": "product-7-front",
+      "description": "Front view of a vintage-wash black t-shirt.",
+      "imageUrl": "https://images.unsplash.com/photo-1737690974141-c964afbdf986?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx2aW50YWdlJTIwdHNoaXJ0fGVufDB8fHx8MTc2ODEwOTkwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vintage tshirt"
+    },
+    {
+      "id": "product-8-front",
+      "description": "Front view of a long-sleeve black t-shirt with sleeve prints.",
+      "imageUrl": "https://images.unsplash.com/photo-1671438118257-cefa6c86fd50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsb25nc2xlZXZlJTIwdHNoaXJ0fGVufDB8fHx8MTc2ODEwOTkwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "longsleeve tshirt"
+    },
+    {
+      "id": "review-avatar-1",
+      "description": "Avatar of a customer.",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjgwMDU1OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "review-avatar-2",
+      "description": "Avatar of a customer.",
+      "imageUrl": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjgwMDU1OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "review-avatar-3",
+      "description": "Avatar of a customer.",
+      "imageUrl": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjgwMDU1OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "review-avatar-4",
+      "description": "Avatar of a customer.",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjgwMDU1OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "story-image",
+      "description": "A close-up of a screen printing press.",
+      "imageUrl": "https://images.unsplash.com/photo-1614494731690-53925976ea29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzY3JlZW4lMjBwcmludGluZ3xlbnwwfHx8fDE3NjgxMDk5MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "screen printing"
+    }
+  ]
 }
