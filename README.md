@@ -39,7 +39,7 @@ The application simulates a real-world online shopping experience with product l
 
 ## 🚀 Live Demo
 🔗 **Live URL:**  
-(Add your deployed link here – Vercel / Netlify)
+https://urban-edge-alpha.vercel.app/
 
 ---
 
